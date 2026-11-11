@@ -1,0 +1,12 @@
+Dr. Reyna Trujillo — Standalone Website
+
+Upload these files to the public web directory of a static website host. No build step or server runtime is required.
+
+Format 1: /
+Format 2: /format-2/
+Format 3: /format-3/
+Format 4: /format-4/
+Format 5: /format-5/
+Format 6: /format-6/
+
+Each design supports English and Spanish. Fonts load from Google Fonts. Contact buttons open email drafts. CV and research downloads remain in their original language.
